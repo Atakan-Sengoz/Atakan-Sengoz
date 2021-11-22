@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Atakan-Sengoz
+- 👀 I’m interested in Web Development and Game Development
+- 📫 How to reach me: atakansengoz@windowslive.com
